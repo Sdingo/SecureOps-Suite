@@ -9,7 +9,7 @@ This suite includes tools and projects that address different aspects of cyberse
 A file monitoring tool that tracks changes to files, detects unauthorized modifications, and maintains baseline integrity.
 
 ### Acknowledgements
-The development of FileIntegrity Sentinel was inspired by [OAAmine](OAAmine/File-Integrity-Monitor)’s basic File Integrity Monitor (FIM). This project builds upon their initial work by adding new features and improvements, including:
+The development of FileIntegrity Sentinel was inspired by OAAmine’s basic File Integrity Monitor (FIM). This project builds upon their initial work by adding new features and improvements, including:
 
 ###### Enhanced Error Handling:More robust handling of file-related errors and exceptions.
 ###### Flexible Directory Monitoring: Ability to monitor specified directories with an updated user interface.
